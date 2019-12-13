@@ -4,11 +4,9 @@
 #### Desafio focado para o time de Analytics
 
 O time de analytics trabalha com ingestão e apresentação de dados, por isso, esse desafio é direcionado nesse sentido. 
-Peço que me retorne o desafio até o dia 16/09 (segunda-feira). Se não conseguir fazer tudo, não tem problema. Me envie o que tiver feito.
+Se não conseguir fazer tudo, não tem problema. Me envie o que tiver feito.
 
-Se não for conseguir entregar nesse prazo, me avisa que podemos tentar negociar :grin:
-
-Você pode entregar o desafio através desse mesmo repositório, ou criar um repositório novo no Github ou outro host público da sua preferência. Organização dos commits também é bom :smile:
+Você pode entregar o desafio através de um repositório novo no Github ou outro host público da sua preferência. Organização dos commits também é bom :smile:
 
 
 O desafio é o seguinte:
@@ -23,8 +21,12 @@ Para isso você vai precisar:
   - [ ] Margem EBITDA
   - [ ] EBITDA
   - [ ] Renda Consolidada 
+- [ ] Deve ser possível comparar balanço de duas ou mais empresas.  
 
-Fique a vontade para elaborar o layout dessa página da forma que você achar melhor :v:
+Tente fazer um layout com base no "rabisco" a seguir: https://marvelapp.com/ceaabj1
+
+Fique livre pra usar outras cores, ícones, formatos de gráfico, etc. 
+Criatividade também pode contar pontos nesse momento :v:
 
 ### Diferenciais
 
@@ -37,7 +39,7 @@ Pode usar sua criatividade. :smiley:
 
 #### Stack
 - React JS
-- Redux
 - [Highcharts (Lib de gráficos que usamos)](https://www.highcharts.com "Highcharts")
+- Redux ( Se julgar necessário )
 
 

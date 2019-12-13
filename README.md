@@ -28,6 +28,9 @@ Tente fazer um layout com base no "rabisco" a seguir: https://marvelapp.com/ceaa
 Fique livre pra usar outras cores, ícones, formatos de gráfico, etc. 
 Criatividade também pode contar pontos nesse momento :v:
 
+Esperamos um código limpo, legível e componentizado.
+Também é bom criar um README falando sobre como executar o projeto, rodar os testes, etc.
+
 ### Diferenciais
 
 

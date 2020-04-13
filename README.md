@@ -1,10 +1,11 @@
 
 ## Desafio Front-end SoftExpert
 
-#### Desafio focado para o time de Analytics
+Olá, Este é o desafio para devs front-end da SoftExpert!
 
-O time de analytics trabalha com ingestão e apresentação de dados, por isso, esse desafio é direcionado nesse sentido. 
-Se não conseguir fazer tudo, não tem problema. Me envie o que tiver feito.
+Geralmente esse e-mail é enviado com algumas instruções, então fique à vontade para tirar dúvidas com quem o enviou.
+
+Se não conseguir fazer tudo, não tem problema. Envie o que tiver feito.
 
 Você pode entregar o desafio através de um repositório novo no Github ou outro host público da sua preferência. Organização dos commits também é bom :smile:
 
